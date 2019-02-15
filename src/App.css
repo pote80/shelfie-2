@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+.product_img {
+  width: 400px
+}
